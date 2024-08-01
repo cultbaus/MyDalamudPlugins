@@ -1,0 +1,25 @@
+[
+    {
+        "Author": "cultbaus",
+        "Name": "CBT",
+        "Description": "This plugin allows the configuration and customization of in-game flytext.",
+        "InternalName": "CBT",
+        "AssemblyVersion": "0.0.1.0",
+        "RepoUrl": "https://github.com/cultbaus/CBT",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "combat",
+            "flytext",
+            "plugin"
+        ],
+        "DalamudApiLevel": 10,
+        "DownloadLinkInstall": "https://github.com/cultbaus/MyDalamudPlugins/raw/main/plugins/CBT/latest.zip",
+        "IconUrl": "https://github.com/cultbaus/MyDalamudPlugins/raw/main/plugins/CBT/images/icon.png",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/cultbaus/MyDalamudPlugins/raw/main/plugins/CBT/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/cultbaus/MyDalamudPlugins/raw/main/plugins/CBT/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1722522277"
+    }
+]
