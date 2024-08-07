@@ -2,7 +2,7 @@
   "Author": "cultbaus",
   "Name": "CBT",
   "InternalName": "CBT",
-  "AssemblyVersion": "0.0.1.0",
+  "AssemblyVersion": "0.0.2.0",
   "Description": "This plugin allows the configuration and customization of in-game flytext.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/cultbaus/CBT",
@@ -18,6 +18,6 @@
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/cultbaus/CBT/main/res/icon.png",
-  "Punchline": "A configurable ImGUI FlyText replacement.",
+  "Punchline": "A configurable FlyText replacement.",
   "AcceptsFeedback": true
 }
