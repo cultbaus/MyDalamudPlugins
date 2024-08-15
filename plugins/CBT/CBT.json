@@ -2,7 +2,7 @@
   "Author": "cultbaus",
   "Name": "CBT",
   "InternalName": "CBT",
-  "AssemblyVersion": "0.0.3.1",
+  "AssemblyVersion": "0.0.3.2",
   "Description": "This plugin allows the configuration and customization of in-game flytext.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/cultbaus/CBT",
